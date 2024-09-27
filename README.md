@@ -94,7 +94,7 @@ The following example doesn't match:
 
 The "Matching an Email" regex is used to validate email addresses by ensuring they follow the pattern of **example.user@domain.com**
 
-The regex can be tested in the app I've created for this tutorial:
+The "Matching an Email" regex can be validated here: https://akravt1274.github.io/Challenge-Regex/
 
 ![alt text](/assets/image.png)
 
